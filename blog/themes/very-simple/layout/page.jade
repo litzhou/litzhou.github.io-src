@@ -1,0 +1,15 @@
+extends base
+block title
+  title= page.title + " | " + config.title
+
+
+block main
+  .wrapper
+    .container.post-header
+  article
+    .container.post
+      != page.content
+    if page.comments
+      .container
+        hr
+        include _partial/comments
