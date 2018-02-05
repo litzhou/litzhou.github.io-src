@@ -1,5 +1,5 @@
 ---
-title: JAVA8十大新特性详解
+title: JAVA 8 十大新特性详解
 date: 2017-12-25 18:07:43
 tags:
     - Java

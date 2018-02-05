@@ -1,5 +1,5 @@
 ---
-title: MySQL数据库使用笔记
+title: MySQL 数据库使用笔记
 date: 2017-12-25 12:40:23
 tags:
     - MySQL

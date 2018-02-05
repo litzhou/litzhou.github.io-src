@@ -4,8 +4,8 @@ menu:
   首页: /
   归档: archives
   开源: /os
-  我: /me
-  留言: /msg
+  关于: /me
+  #留言: /msg
 
 social:
   email: litzhou@qq.com
