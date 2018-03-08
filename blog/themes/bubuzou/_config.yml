@@ -1,6 +1,7 @@
 menu:
     博文: /
     归档: /archives/
+    开源贡献: /os/
    # 生活: /categories/live/
    # 摄影: /categories/film/
     关于: /about/
@@ -17,7 +18,7 @@ favicon: /images/favicon.ico
 logo: /images/logo.png
 
 # Comment
-changyan: bubuzou
+changyan: 
 yungentie: 
 disqus:
 duoshuo: 
