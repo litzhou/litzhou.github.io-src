@@ -1,5 +1,7 @@
 title: Docker 构建 SpringBoot 镜像
 date: 2017-12-05 21:10:55
+categories:
+    - SpringBoot
 tags: 
     - Docker
     - SpringBoot

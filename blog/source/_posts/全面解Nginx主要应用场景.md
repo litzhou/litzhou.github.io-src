@@ -1,6 +1,8 @@
 ---
 title: Nginx 的主要应该场景总结
 date: 2017-12-29 18:52:03
+categories:
+    - Nginx
 tags:
     - Nginx
 ---

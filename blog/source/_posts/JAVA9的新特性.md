@@ -1,6 +1,8 @@
 ---
 title: 预计发布的Java 9中，最令人兴奋的特性是什么
 date: 2017-12-29 17:03:40
+categories：
+    - Java
 tags:
     - Java
 ---
